@@ -1,0 +1,52 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 02 Sep 2018 21:10:23 at http://themesflat.com/html/charry/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://themesflat.com/html/charry/ -O1 "C:\My Web Sites\hopetrust" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:27:40	Error: 	"Not Found" (404) at link themesflat.com/html/charry/icon/apple-touch-icon-48-precomposed.png (from themesflat.com/html/charry/)
+21:27:40	Error: 	"Not Found" (404) at link themesflat.com/html/charry/icon/apple-touch-icon-32-precomposed.png (from themesflat.com/html/charry/)
+21:35:32	Error: 	"Not Found" (404) at link themesflat.com/html/charry/fonts/glyphicons-halflings-regular.eot (from themesflat.com/html/charry/stylesheets/bootstrap.css)
+21:35:32	Error: 	"Not Found" (404) at link themesflat.com/html/charry/fonts/glyphicons-halflings-regular.eot? (from themesflat.com/html/charry/stylesheets/bootstrap.css)
+21:35:32	Error: 	"Not Found" (404) at link themesflat.com/html/charry/fonts/glyphicons-halflings-regular.woff2 (from themesflat.com/html/charry/stylesheets/bootstrap.css)
+21:35:32	Error: 	"Not Found" (404) at link themesflat.com/html/charry/fonts/glyphicons-halflings-regular.woff (from themesflat.com/html/charry/stylesheets/bootstrap.css)
+21:35:32	Error: 	"Not Found" (404) at link themesflat.com/html/charry/fonts/glyphicons-halflings-regular.ttf (from themesflat.com/html/charry/stylesheets/bootstrap.css)
+21:35:32	Error: 	"Not Found" (404) at link themesflat.com/html/charry/fonts/glyphicons-halflings-regular.svg (from themesflat.com/html/charry/stylesheets/bootstrap.css)
+21:36:09	Error: 	"Not Found" (404) at link themesflat.com/html/charry/images/icon/sub@2x.png (from themesflat.com/html/charry/stylesheets/responsive.css)
+21:36:09	Error: 	"Not Found" (404) at link themesflat.com/html/charry/images/icon/add@2x.png (from themesflat.com/html/charry/stylesheets/responsive.css)
+21:36:09	Error: 	"Not Found" (404) at link themesflat.com/html/img/revolution-slider/gradient/g30.png (from themesflat.com/html/charry/stylesheets/revolution-slider.css)
+21:36:09	Error: 	"Not Found" (404) at link themesflat.com/html/img/revolution-slider/gradient/g40.png (from themesflat.com/html/charry/stylesheets/revolution-slider.css)
+21:36:09	Error: 	"Not Found" (404) at link themesflat.com/html/assets/revolution-slider/shadow1.png (from themesflat.com/html/charry/stylesheets/revolution-slider.css)
+21:36:09	Error: 	"Not Found" (404) at link themesflat.com/html/assets/revolution-slider/shadow2.png (from themesflat.com/html/charry/stylesheets/revolution-slider.css)
+21:36:09	Error: 	"Not Found" (404) at link themesflat.com/html/assets/revolution-slider/shadow3.png (from themesflat.com/html/charry/stylesheets/revolution-slider.css)
+21:36:09	Error: 	"Not Found" (404) at link themesflat.com/html/assets/revolution-slider/gridtile.png (from themesflat.com/html/charry/stylesheets/revolution-slider.css)
+21:36:09	Error: 	"Not Found" (404) at link themesflat.com/html/assets/revolution-slider/gridtile_white.png (from themesflat.com/html/charry/stylesheets/revolution-slider.css)
+21:36:09	Error: 	"Not Found" (404) at link themesflat.com/html/assets/revolution-slider/gridtile_3x3.png (from themesflat.com/html/charry/stylesheets/revolution-slider.css)
+21:36:09	Error: 	"Not Found" (404) at link themesflat.com/html/assets/revolution-slider/gridtile_3x3_white.png (from themesflat.com/html/charry/stylesheets/revolution-slider.css)
+21:36:09	Error: 	"Not Found" (404) at link themesflat.com/html/assets/revolution-slider/boxed_bgtile.png (from themesflat.com/html/charry/stylesheets/revolution-slider.css)
+21:36:09	Error: 	"Not Found" (404) at link themesflat.com/html/assets/revolution-slider/navigdots_bgtile.png (from themesflat.com/html/charry/stylesheets/revolution-slider.css)
+21:36:09	Error: 	"Not Found" (404) at link themesflat.com/html/assets/revolution-slider/bullet.png (from themesflat.com/html/charry/stylesheets/revolution-slider.css)
+21:36:09	Error: 	"Not Found" (404) at link themesflat.com/html/assets/revolution-slider/bullets.png (from themesflat.com/html/charry/stylesheets/revolution-slider.css)
+21:36:09	Error: 	"Not Found" (404) at link themesflat.com/html/assets/revolution-slider/bullets2.png (from themesflat.com/html/charry/stylesheets/revolution-slider.css)
+21:36:09	Error: 	"Not Found" (404) at link themesflat.com/html/assets/revolution-slider/bullet_boxed.png (from themesflat.com/html/charry/stylesheets/revolution-slider.css)
+21:36:09	Error: 	"Not Found" (404) at link themesflat.com/html/assets/revolution-slider/navigdots.png (from themesflat.com/html/charry/stylesheets/revolution-slider.css)
+21:36:09	Error: 	"Not Found" (404) at link themesflat.com/html/assets/revolution-slider/small_left.png (from themesflat.com/html/charry/stylesheets/revolution-slider.css)
+21:36:09	Error: 	"Not Found" (404) at link themesflat.com/html/assets/revolution-slider/small_right.png (from themesflat.com/html/charry/stylesheets/revolution-slider.css)
+21:36:09	Error: 	"Not Found" (404) at link themesflat.com/html/assets/revolution-slider/arrow_left.png (from themesflat.com/html/charry/stylesheets/revolution-slider.css)
+21:36:09	Error: 	"Not Found" (404) at link themesflat.com/html/assets/revolution-slider/arrow_right.png (from themesflat.com/html/charry/stylesheets/revolution-slider.css)
+21:36:09	Error: 	"Not Found" (404) at link themesflat.com/html/assets/revolution-slider/small_left_boxed.png (from themesflat.com/html/charry/stylesheets/revolution-slider.css)
+21:36:09	Error: 	"Not Found" (404) at link themesflat.com/html/assets/revolution-slider/small_right_boxed.png (from themesflat.com/html/charry/stylesheets/revolution-slider.css)
+21:36:09	Error: 	"Not Found" (404) at link themesflat.com/html/assets/revolution-slider/arrowleft.png (from themesflat.com/html/charry/stylesheets/revolution-slider.css)
+21:36:09	Error: 	"Not Found" (404) at link themesflat.com/html/assets/revolution-slider/arrowright.png (from themesflat.com/html/charry/stylesheets/revolution-slider.css)
+21:36:09	Error: 	"Not Found" (404) at link themesflat.com/html/assets/revolution-slider/coloredbg.png (from themesflat.com/html/charry/stylesheets/revolution-slider.css)
+21:36:09	Error: 	"Not Found" (404) at link themesflat.com/html/assets/revolution-slider/loader.gif (from themesflat.com/html/charry/stylesheets/revolution-slider.css)
+21:36:09	Error: 	"Not Found" (404) at link themesflat.com/html/charry/font/revicons90c6.eot?5510888 (from themesflat.com/html/charry/stylesheets/revolution-slider.css)
+21:36:09	Error: 	"Not Found" (404) at link themesflat.com/html/charry/font/revicons90c6.woff?5510888 (from themesflat.com/html/charry/stylesheets/revolution-slider.css)
+21:36:09	Error: 	"Not Found" (404) at link themesflat.com/html/charry/font/revicons90c6.ttf?5510888 (from themesflat.com/html/charry/stylesheets/revolution-slider.css)
+21:36:09	Error: 	"Not Found" (404) at link themesflat.com/html/charry/font/revicons90c6.svg?5510888 (from themesflat.com/html/charry/stylesheets/revolution-slider.css)
+21:36:12	Error: 	"Not Found" (404) at link themesflat.com/html/charry/stylesheets/owl.video.play.png (from themesflat.com/html/charry/stylesheets/owl.carousel.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 26 minutes 2 seconds : 221 links scanned, 179 files written (40740733 bytes overall) [39489881 bytes received at 25281 bytes/sec], 2058330 bytes transferred using HTTP compression in 88 files, ratio 28%, 2.6 requests per connection
+(41 errors, 0 warnings, 0 messages)
