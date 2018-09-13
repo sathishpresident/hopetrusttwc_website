@@ -76,6 +76,12 @@
 		margin: 0 auto;
 	}
 
+	.profile-name {
+		color: black;
+		font-weight: bold;
+		font-size: 24px;
+	}
+
 	/* The actual timeline (the vertical ruler) */
 .timeline::after {
     content: '';
