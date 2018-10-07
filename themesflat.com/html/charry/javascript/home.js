@@ -114,9 +114,44 @@
         });
     }
 
+    var allCount = function () {
+        var countData = [{
+            'name' : 'Volunteers',
+            'count': 86
+        },
+        {
+            'name' : 'Events',
+            'count': 13
+        },
+        {
+            'name' : 'Donations',
+            'count': 47
+        },
+        {
+            'name' : 'Awards',
+            'count': 7
+        }];
+
+        var divToPlace = document.getElementById('count-data-list');
+
+        var html = countData.map((member, index) => {
+            return `<div class="col-md-3">
+            <div class="flat-counter">
+                <div class="numb-count" data-to=${member.count} data-speed="2000" data-waypoint-active="yes">${member.count}</div>
+                <div class="name-count">
+                    <p>${member.name}</p>
+                </div>
+            </div>
+        </div>`
+        }).join('');
+
+        divToPlace.innerHTML = html;
+    }
+
     // Dom Ready
     $(function () {
         bestVolunteers();
+        allCount();
     });
 
 })(jQuery);
