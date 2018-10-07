@@ -288,7 +288,7 @@
         },
         {
             'name': 'Raju P L',
-            'designation': 'Team Lead 7',
+            'designation': 'Team Lead',
             'image': 'images/member/1.jpg'
         }];
 
@@ -371,12 +371,12 @@
         },
         {
             'name': 'Aravind S',
-            'designation': 'Team Lead 3',
+            'designation': 'Team Lead 1',
             'image': 'images/member/1.jpg'
         },
         {
             'name': 'Giridharan J',
-            'designation': 'Team Lead 4',
+            'designation': 'Team Lead 2',
             'image': 'images/member/1.jpg'
         }];
 
@@ -547,12 +547,12 @@
         },
         {
             'name': 'Venkateshwaran N',
-            'designation': 'Team Lead 5',
+            'designation': 'Team Lead 1',
             'image': 'images/member/1.jpg'
         },
         {
             'name': 'Harish K R',
-            'designation': 'Team Lead 6',
+            'designation': 'Team Lead 2',
             'image': 'images/member/1.jpg'
         }];
 
