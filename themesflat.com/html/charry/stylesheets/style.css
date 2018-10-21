@@ -1764,12 +1764,12 @@ article .comment-post .comment-respond {
 ------------------------------------------------------- */
 footer {
     background-color: #222;
-    padding: 115px 0 115px;
+    padding: 115px 0 50px;
     color: #aaa;
 }
 
 footer.padding-top120px {
-	padding-top: 235px;
+	padding-top: 150px;
 }
 
 .footer .widget .widget-title {
