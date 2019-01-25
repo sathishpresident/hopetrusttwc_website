@@ -115,22 +115,24 @@
     }
 
     var allCount = function () {
-        var countData = [{
-            'name' : 'Volunteers',
-            'count': 86
-        },
-        {
-            'name' : 'Events',
-            'count': 13
-        },
-        {
-            'name' : 'Donations',
-            'count': 47
-        },
-        {
-            'name' : 'Awards',
-            'count': 7
-        }];
+        var countData = [
+        //     {
+        //     'name' : 'Volunteers',
+        //     'count': 101
+        // },
+        // {
+        //     'name' : 'Events',
+        //     'count': 13
+        // },
+        // {
+        //     'name' : 'Donations',
+        //     'count': '2.1L'
+        // },
+        // {
+        //     'name' : 'Counting Beneficiaries',
+        //     'count': '32000..'
+        // }
+    ];
 
         var divToPlace = document.getElementById('count-data-list');
 
@@ -151,26 +153,26 @@
     var fundsAllocated = function () {
         var trustAmount = 100000;
         var fundsData = [
-            {
-                imageUrl : 'images/about/index-1/3.jpg',
-                title : 'Education',
-                spendAmount : 20000
-            },
-            {
-                imageUrl : 'images/about/index-1/5.jpg',
-                title : 'Society',
-                spendAmount : 40000
-            },
-            {
-                imageUrl : 'images/about/index-1/4.jpg',
-                title : 'Awareness',
-                spendAmount : 25000
-            },
-            {
-                imageUrl : 'images/about/index-1/6.jpg',
-                title : 'Old Age Homes',
-                spendAmount : 15000
-            }
+            // {
+            //     imageUrl : 'images/about/index-1/3.jpg',
+            //     title : 'Education',
+            //     spendAmount : 20000
+            // },
+            // {
+            //     imageUrl : 'images/about/index-1/5.jpg',
+            //     title : 'Society',
+            //     spendAmount : 40000
+            // },
+            // {
+            //     imageUrl : 'images/about/index-1/4.jpg',
+            //     title : 'Awareness',
+            //     spendAmount : 25000
+            // },
+            // {
+            //     imageUrl : 'images/about/index-1/6.jpg',
+            //     title : 'Old Age Homes',
+            //     spendAmount : 15000
+            // }
         ];
 
         var divToPlace = document.getElementById('recent-problem-causes');
