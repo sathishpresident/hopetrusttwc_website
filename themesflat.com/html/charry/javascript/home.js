@@ -8,40 +8,45 @@
 
     var bestVolunteers = function () {
         var membersData = [{
-            'name': 'Chaitanya Karthick S',
-            'designation': 'Team Lead 1',
-            'image': 'images/member/1.jpg'
-        },
-        {
-            'name': 'Evagelin Ruby N',
-            'designation': 'Team Lead 2',
-            'image': 'images/member/2.jpg'
-        },
-        {
-            'name': 'Aravind S',
-            'designation': 'Team Lead 3',
-            'image': 'images/member/1.jpg'
-        },
-        {
-            'name': 'Giridharan J',
-            'designation': 'Team Lead 4',
-            'image': 'images/member/1.jpg'
-        },
-        {
-            'name': 'Venkateshwaran N',
-            'designation': 'Team Lead 5',
-            'image': 'images/member/1.jpg'
+            'name': 'Arun Kumar K',
+            'designation': 'Volunteer',
+            'image': 'images/member/ArunkumarK.jpg'
         },
         {
             'name': 'Harish K R',
-            'designation': 'Team Lead 6',
-            'image': 'images/member/1.jpg'
+            'designation': 'Volunteer',
+            'image': 'images/member/HarishKR.jpg'
+        },
+        {
+            'name': 'Chaitanya Karthick S',
+            'designation': 'Volunteer',
+            'image': 'images/member/Chanitanyakarthick.jpg'
+        },   
+        {
+            'name': 'Venkateshwaran N',
+            'designation': 'Volunteer',
+            'image': 'images/member/Venkateshwaran.jpg'
+        },
+        {
+            'name': 'Giridharan J',
+            'designation': 'Volunteer',
+            'image': 'images/member/GiridharanJ.jpg'
         },
         {
             'name': 'Raju P L',
-            'designation': 'Team Lead 7',
-            'image': 'images/member/1.jpg'
-        }];
+            'designation': 'Volunteer',
+            'image': 'images/member/RajuPL.jpg'
+        },
+        {
+            'name': 'Praveen Kumar R',
+            'designation': 'Volunteer',
+            'image': 'images/member/PraveenkumarR.jpg'
+        },
+        {
+            'name': 'Abdul Khudus R M',
+            'designation': 'Volunteer',
+            'image': 'images/member/Abdulkhudus.jpg'
+        },];
 
         var carousel = $('#best-members-list');
         carousel.trigger('destroy.owl.carousel');
